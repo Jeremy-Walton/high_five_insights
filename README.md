@@ -17,7 +17,7 @@ Export all data as a CSV and put in the project folder
 
 Run this bash script from your terminal
 
-`./high_fives_report.sh {name_of_file.csv}`
+`./src/high_fives_report.sh ./data/{name_of_file.csv}`
 
 ## Output
 
@@ -78,3 +78,7 @@ Fake Person  32                  60
 (10 rows)
 --------------------------------------------------
 ```
+
+## License
+
+[MIT License](./LICENSE)
